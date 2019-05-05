@@ -1,0 +1,11 @@
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\bin\Debug\netcoreapp2.1\DisjointSet.deps.json
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\bin\Debug\netcoreapp2.1\DisjointSet.runtimeconfig.json
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\bin\Debug\netcoreapp2.1\DisjointSet.runtimeconfig.dev.json
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\bin\Debug\netcoreapp2.1\DisjointSet.dll
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\bin\Debug\netcoreapp2.1\DisjointSet.pdb
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.csprojAssemblyReference.cache
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.csproj.CoreCompileInputs.cache
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.AssemblyInfoInputs.cache
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.AssemblyInfo.cs
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.dll
+C:\Users\krile\source\repos\DisjointSet\DisjointSet\obj\Debug\netcoreapp2.1\DisjointSet.pdb
